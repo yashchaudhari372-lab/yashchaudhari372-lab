@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Yash Chaudhari
 
-### 🚀 Data Scientist | Machine Learning Engineer | Data Analyst
+### Data Science Intern @ Hisan Labs Pvt. Ltd. | Aspiring Data Analyst | ML & NLP Enthusiast
+📍 Pune, India &nbsp;|&nbsp; 💡 Turning Raw Data into Actionable Business Intelligence
 
 I am a results-driven Data Scientist & Machine Learning Engineer focused on transforming raw data into actionable insights, robust predictive models, and production-ready AI solutions. I enjoy working across the full data science lifecycle — from exploratory data analysis and automated ETL to machine learning modeling, cloud deployment, and executive BI dashboards.
 
